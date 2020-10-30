@@ -11,7 +11,7 @@ To run:
 
 **Note: screenshots can be found in** `screenshots` **folder**
 
-### Answers to submission questions:
+### Answers to submission questions
 
 How many hours do you estimate you used completing this assignment?
 I estimate I spent about 2 hours on this assignment.
